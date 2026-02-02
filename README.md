@@ -17,7 +17,7 @@ Saya adalah **Frontend Developer** dan mahasiswa **Computer Science semester 5**
 
 Saya fokus pada **UI development**, **performance optimization**, dan **API integration**. Familiar dengan MySQL dan Laravel-based backend workflows. Saya menikmati menyelesaikan masalah dunia nyata dan berkolaborasi dalam tim pengembangan yang berfokus pada produk.
 
-- Saat ini bekerja sebagai **Frontend Developer Intern**
+- Saat ini sedang mencari magang sebagai **Frontend Developer Intern**
 - Terus belajar **React.js & Laravel (Blade)**
 - Passionate tentang **UI/UX** dan **performance optimization**
 - Mahasiswa **Computer Science** semester 5
@@ -51,18 +51,5 @@ Saya fokus pada **UI development**, **performance optimization**, dan **API inte
 ### Collaboration & Productivity
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## Mari Terhubung!
-
-Saya selalu terbuka untuk kolaborasi dan diskusi tentang teknologi. Jangan ragu untuk menghubungi saya!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kafi-rijal-59b166293/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.kafi.sopian@gmail.com)
-
-</div>
 
 ---
